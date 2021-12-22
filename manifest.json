@@ -1,0 +1,9 @@
+{
+  "short_name": "Glögiarvostelut",
+  "name": "Glögiarvostelut",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#282c34",
+  "background_color": "#282c34"
+}
