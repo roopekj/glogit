@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/glogit/static/css/main.6c65de08.css",
-    "main.js": "/glogit/static/js/main.f8ae26a3.js",
-    "static/media/reviews.csv": "/glogit/static/media/reviews.f604a838e3093ed9520c.csv",
+    "main.js": "/glogit/static/js/main.3e3318ec.js",
+    "static/media/reviews.csv": "/glogit/static/media/reviews.28d11e960bb08bdd3f51.csv",
     "index.html": "/glogit/index.html",
     "main.6c65de08.css.map": "/glogit/static/css/main.6c65de08.css.map",
-    "main.f8ae26a3.js.map": "/glogit/static/js/main.f8ae26a3.js.map"
+    "main.3e3318ec.js.map": "/glogit/static/js/main.3e3318ec.js.map"
   },
   "entrypoints": [
     "static/css/main.6c65de08.css",
-    "static/js/main.f8ae26a3.js"
+    "static/js/main.3e3318ec.js"
   ]
 }
